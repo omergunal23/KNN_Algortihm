@@ -2,7 +2,7 @@
 ELE489-Fundamentals of Machine Learning HW1
 
 * knn.py file which includes k-NN implementataion code is also present in the analysis.ipynb file. So, no need to add it from the outside.
-* The codes are written and tested in the Google Collab environment.
+* The codes are written and tested in the Google Colab environment.
 
 In this project, KNN algorithm is applied to the Wine Dataset from the UCI Machine Learning Repository.
 The dataset consists of 178 instances with 13 numerical features and a class label (1, 2, or 3).
